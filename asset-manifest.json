@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/AskAndAnswer/static/css/main.cdb38bbd.css",
+    "main.js": "/AskAndAnswer/static/js/main.ff78a3eb.js",
+    "static/js/787.862d7bc3.chunk.js": "/AskAndAnswer/static/js/787.862d7bc3.chunk.js",
+    "static/media/Commerce.jpg": "/AskAndAnswer/static/media/Commerce.490a4135e3cee71b008f.jpg",
+    "static/media/SFreinds.jpg": "/AskAndAnswer/static/media/SFreinds.3283df3b6effa62a5347.jpg",
+    "static/media/FFriends.jpg": "/AskAndAnswer/static/media/FFriends.e1daf59f843831b64de4.jpg",
+    "static/media/Progression.jpg": "/AskAndAnswer/static/media/Progression.fba04428201cc4713b6a.jpg",
+    "static/media/Politicsphoto.jpg": "/AskAndAnswer/static/media/Politicsphoto.e52ad338fce3d8c61c12.jpg",
+    "static/media/Fashionphoto.jpg": "/AskAndAnswer/static/media/Fashionphoto.feaedb2ac90839e9db07.jpg",
+    "static/media/bigimg.jpg": "/AskAndAnswer/static/media/bigimg.c47bd3bc6dc1bc732d73.jpg",
+    "static/media/Gamingphoto.jpg": "/AskAndAnswer/static/media/Gamingphoto.211e9351d6ab4cf4e43e.jpg",
+    "static/media/sportPhoto.jpg": "/AskAndAnswer/static/media/sportPhoto.27afcab4a209199dc016.jpg",
+    "static/media/ITphoto.jpg": "/AskAndAnswer/static/media/ITphoto.64df6f405733aee1fe05.jpg",
+    "static/media/twitter(1).png": "/AskAndAnswer/static/media/twitter(1).e46c2218fa5a4659f2f5.png",
+    "static/media/instagram.png": "/AskAndAnswer/static/media/instagram.2d5cedd576ca1a740d7c.png",
+    "static/media/phone-call.png": "/AskAndAnswer/static/media/phone-call.67bd3561d8db352d3d04.png",
+    "static/media/discord(1).png": "/AskAndAnswer/static/media/discord(1).55960cba794f3c2ba6fc.png",
+    "static/media/bar.png": "/AskAndAnswer/static/media/bar.479d33d47092a879ae29.png",
+    "static/media/gmail(1).png": "/AskAndAnswer/static/media/gmail(1).a2f2146f929409405da0.png",
+    "static/media/logo.png": "/AskAndAnswer/static/media/logo.a511715da184a3b19292.png",
+    "index.html": "/AskAndAnswer/index.html",
+    "main.cdb38bbd.css.map": "/AskAndAnswer/static/css/main.cdb38bbd.css.map",
+    "main.ff78a3eb.js.map": "/AskAndAnswer/static/js/main.ff78a3eb.js.map",
+    "787.862d7bc3.chunk.js.map": "/AskAndAnswer/static/js/787.862d7bc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdb38bbd.css",
+    "static/js/main.ff78a3eb.js"
+  ]
+}
