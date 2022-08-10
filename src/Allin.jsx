@@ -14,8 +14,8 @@ const AllIn = () => {
                 <Route path='/main' element={<MainPage/>}/>
                 <Route path='/signin' element={<SignIn/>}/>
                 <Route path='/register' element={<Register/>}/>
-                <Route path={'*'} element={<NotFound/>}/>
-                <Route path={"/"}  element={<Home/>}/>
+
+                <Route path={"/home"}  element={<Home/>}/>
             </Routes>
         </Router>
      );
