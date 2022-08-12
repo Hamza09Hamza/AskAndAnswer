@@ -44,7 +44,7 @@ const MainPage = () => {
                    <PrivateChannels onChanginRoom={(data)=>ChangingRoom(data)}/>
                 </div>
                 <div className='Add-Server'>
-                    <button className='button-selection' onClick={createNewRoomID} ><Link to="/AddNewServ">+</Link></button>
+                    <button className='button-selection' onClick={createNewRoomID} ><Link to="/AskAndAnswer/AddNewServ">+</Link></button>
                 </div>
                 <div className='Public-chat'>
                     <button className='button-selection' 
