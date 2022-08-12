@@ -39,8 +39,8 @@ const  Activemenu=()=>{
              
         }else{
             setPartHeader(<>
-             <li><Link to="/signin"><button className="Header-btn"> Sign in</button></Link></li>
-                <li><Link to="/register"><button className="Header-btn fixed-btn">Register </button> </Link></li>
+             <li><Link to="/AskAndAnswer/signin"><button className="Header-btn"> Sign in</button></Link></li>
+                <li><Link to="/AskAndAnswer/register"><button className="Header-btn fixed-btn">Register </button> </Link></li>
             </>)
              
         }
@@ -66,8 +66,8 @@ const  Activemenu=()=>{
     {   Activated&& 
         <div className='menu-grid'>  
             <a href="#Footer" className="menu-items">Contact Us</a>
-            <a href="#" className="menu-items">Sign in</a>
-            <a href="#" className="menu-items">Register</a>
+            <Link to="/AskAndAnswer/signin"><a href="#" className="menu-items">Sign in</a></Link>
+            <Link to="/AskAndAnswer/register"><a href="#" className="menu-items">Register</a></Link>
         </div>
     }
         </>
