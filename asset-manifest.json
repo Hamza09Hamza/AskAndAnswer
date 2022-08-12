@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/AskAndAnswer/home/static/css/main.cdb38bbd.css",
-    "main.js": "/AskAndAnswer/home/static/js/main.930cca0f.js",
+    "main.css": "/AskAndAnswer/home/static/css/main.b8263528.css",
+    "main.js": "/AskAndAnswer/home/static/js/main.9f58d758.js",
     "static/js/787.862d7bc3.chunk.js": "/AskAndAnswer/home/static/js/787.862d7bc3.chunk.js",
     "static/media/Commerce.jpg": "/AskAndAnswer/home/static/media/Commerce.490a4135e3cee71b008f.jpg",
     "static/media/SFreinds.jpg": "/AskAndAnswer/home/static/media/SFreinds.3283df3b6effa62a5347.jpg",
@@ -21,12 +21,12 @@
     "static/media/gmail(1).png": "/AskAndAnswer/home/static/media/gmail(1).a2f2146f929409405da0.png",
     "static/media/logo.png": "/AskAndAnswer/home/static/media/logo.a511715da184a3b19292.png",
     "index.html": "/AskAndAnswer/home/index.html",
-    "main.cdb38bbd.css.map": "/AskAndAnswer/home/static/css/main.cdb38bbd.css.map",
-    "main.930cca0f.js.map": "/AskAndAnswer/home/static/js/main.930cca0f.js.map",
+    "main.b8263528.css.map": "/AskAndAnswer/home/static/css/main.b8263528.css.map",
+    "main.9f58d758.js.map": "/AskAndAnswer/home/static/js/main.9f58d758.js.map",
     "787.862d7bc3.chunk.js.map": "/AskAndAnswer/home/static/js/787.862d7bc3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdb38bbd.css",
-    "static/js/main.930cca0f.js"
+    "static/css/main.b8263528.css",
+    "static/js/main.9f58d758.js"
   ]
 }
