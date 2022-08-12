@@ -43,7 +43,7 @@ const Register = () => {
 
             }
             <span className='signinlink'>
-                     Don't have an Account ? <Link  className="LINKTOSIGNIN" to="/signin"> Sign in  </Link>
+                     Don't have an Account ? <Link  className="LINKTOSIGNIN" to="/AskAndAnswer/signin"> Sign in  </Link>
             </span>
         </main>
          <Footer/>
