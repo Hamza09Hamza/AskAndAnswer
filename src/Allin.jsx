@@ -10,10 +10,10 @@ const AllIn = () => {
     return ( 
         <Router>
             <Routes>
-                <Route path='/AskAndAnswer//AddNewServ' element={<AddNewServ/>}/>
-                <Route path='/AskAndAnswer//main' element={<MainPage/>}/>
-                <Route path='/AskAndAnswer//signin' element={<SignIn/>}/>
-                <Route path='/AskAndAnswer//register' element={<Register/>}/>
+                <Route path='/AskAndAnswer/AddNewServ' element={<AddNewServ/>}/>
+                <Route path='/AskAndAnswer/main' element={<MainPage/>}/>
+                <Route path='/AskAndAnswer/signin' element={<SignIn/>}/>
+                <Route path='/AskAndAnswer/register' element={<Register/>}/>
 
                 <Route path={"/AskAndAnswer/home"}  element={<Home/>}/>
             </Routes>
