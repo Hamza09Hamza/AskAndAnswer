@@ -7,10 +7,10 @@ import { fireauth } from '../../firebaseconfig';
 const FBody = () => {
         const GettingStarted=()=>{
                 if(fireauth.currentUser){
-                        history.push('/main')
+                        history.push('/AskAndAnswer/main')
                         window.location.reload(false)
                 }else{
-                        history.push('/register')
+                        history.push('/AskAndAnswer/register')
                         window.location.reload(false)
                 }
         }
