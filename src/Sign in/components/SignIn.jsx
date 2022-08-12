@@ -97,7 +97,7 @@ const SignIn = () => {
                     </div>
                 </section>
                 <span className='signinlink'>
-                     Already  have an Account ? <Link  className="LINKTOSIGNIN" to="/register"> Register</Link>
+                     Already  have an Account ? <Link  className="LINKTOSIGNIN" to="/AskAndAnswer/register"> Register</Link>
             </span>
         </main>
         <Footer/>
